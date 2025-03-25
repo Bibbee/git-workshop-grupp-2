@@ -6,3 +6,6 @@ hello()  # Anropar funktionen
 
 def food():
     print("My favorite food is sushi!")  # Ändra till din favoritmat
+
+def drink():
+    print("My favorite drink is lemonade!")
