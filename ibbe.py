@@ -4,3 +4,9 @@ def hello():
 
 def food():
     print("Jag gillar mat!")
+
+def drink():
+    drink = input("Gissa vad min favoritdryck är!")
+    print("FEL! " + str(drink) + " är inte min favorit!")
+
+drink()
