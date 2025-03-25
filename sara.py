@@ -6,3 +6,4 @@ def food():
 
 def drink():
     print("cola")
+
