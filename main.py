@@ -25,5 +25,3 @@ def main():
         print("Okänt namn!")
 
 main()
-
-
