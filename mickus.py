@@ -3,3 +3,6 @@ def hello():
     print("Hello, " + name + "!")  # Skriver ut hälsning
 
 hello()  # Anropar funktionen
+
+def food():
+    print("My favorite food is sushi!")  # Ändra till din favoritmat
