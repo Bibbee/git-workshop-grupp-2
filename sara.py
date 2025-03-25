@@ -1,2 +1,2 @@
-ålder = input("Hur gammal är du? ")
-print("Du är " + ålder + " år gammal.")
+def hello() :
+    print("Hej jag är sara")
